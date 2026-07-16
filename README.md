@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- 2. ROLLING CONTACT MARQUEE WITH YOUR EMAIL -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=For+any+queries+or+questions%2C+email+me+at%3A;mmIlyas245%40gmail.com" alt="Contact Marquee Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=For+any+queries+or+questions%2C+email+me+at%3A;faisoktk%1122@gmail.com" alt="Contact Marquee Animation" />
 </p>
 <p align="center">
   <!-- 2. ANIMATED WAVING HAND EMOJI -->
@@ -16,7 +16,7 @@
 </p>
 <p align="center">
   <!-- ANIMATED TYPING NAME FROM THE LEFT IN VIBRANT BLUE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&height=70&lines=Muhammad+Ilyas" alt="Typing Name Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&height=70&lines=Faisal+Iqbal" alt="Typing Name Animation" />
 </p>
 
 
@@ -53,7 +53,7 @@
     <td width="55%" valign="top">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=435&lines=class+InformaticsStudent%3A;++++def+__init__(self)%3A" alt="Code Typing" />
       <pre lang="python">
-        self.name = "Muhammad Ilyas"
+        self.name = "Faisal Iqbal"
         self.role = "AI & Product Developer"
         self.location = "Peshawar, KP, Pakistan"
         self.education = "Artificial intelligence Student"
@@ -130,13 +130,13 @@
 ### 📊 Dynamic Coding Analytics
 <p align="center">
   <!-- ALTERNATIVE STABLE STATS DEPLOYMENT -->
-  <img src="https://github-readme-stats-readme-stats.vercel.app/api?username=mmilyas245-dot&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-readme-stats.vercel.app/api?username=faisoktk1122&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
   <!-- ALTERNATIVE STABLE LANGUAGES DEPLOYMENT -->
-  <img src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=faisoktk1122&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 <p align="center">
   <!-- LIGHTWEIGHT SYSTEM STREAK -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmilyas245-dot&theme=tokyonight" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisoktk1122&theme=tokyonight" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -146,7 +146,7 @@
 ### 📈 Activity & Contribution Graph
 <p align="center">
   <!-- BULLETPROOF PUBLIC SERVICE THAT NEVER DROPS -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmilyas245-dot&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisoktk1122&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
