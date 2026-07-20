@@ -109,9 +109,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /><br />**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /><br />**CSS3** |
 | :---: | :---: |
 
-### 🤖 Hardware, IoT & Design
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50" /><br />**Arduino Uno** | <img src="https://user-images.githubusercontent.com/19211252/125174411-e1291880-e17f-11eb-81c0-0ed4cf37ff34.png" alt="ESP32" width="50" height="50" /><br />**ESP32** | <img src="https://user-images.githubusercontent.com/64104443/182035973-1f191a61-12cd-47d3-ba68-4668df2be879.png" alt="AutoCAD" width="50" height="50" /><br />**AutoCAD 3D** |
-| :---: | :---: | :---: |
+
 
 ### 🛠️ Development Tools & Workspace
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" /><br />**VS Code** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" /><br />**Git** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /><br />**GitHub** |
@@ -156,14 +154,17 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://huggingface.co/muhIlyas1" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face" />
-  </a>
-  <a href="https://facebook.com/profile.php?id=100022075173921" target="_blank">
+
+  <a href="https://www.facebook.com/share/1CEcWxwmmh/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/muhammad_ilyas_5" target="_blank">
+
+  <a href="https://www.instagram.com/faisal28279/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="https://www.tiktok.com/@faisalkhattak076?_r=1&_t=ZS-980QlBNQnoo" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
 ---
